@@ -242,11 +242,11 @@ Open the `Notebooks/` folder and execute any `.ipynb` file.
 ✔️ Real-world applications included <br> 
 ✔️ Easy navigation with one-click notebook access <br>
 
+---
+## 👤 Author
 
-## 👨‍💻 Author
-
-**Tanvee Sushama Paresh** <br>
-GitHub: https://github.com/TanveeSP
+- **Name:** Tanvee Sushama Paresh  
+- **GitHub:** [TanveeSP](https://github.com/TanveeSP)
 ---
 
 <p align="center">
