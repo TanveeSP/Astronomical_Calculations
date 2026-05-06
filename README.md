@@ -70,7 +70,7 @@ Spherical coordinates are widely used in astronomy because they describe:
 * Conversion logic
 * Practical examples
 
-👉 🔗 **[Open Solution Notebook](https://github.com/TanveeSP/Astronomical_Calculations/blob/main/Notebooks/A2Q2.ipynb)**
+👉 🔗 **[Open Solution Notebook](https://github.com/TanveeSP/Astronomical_Calculations/blob/main/Notebooks/A1Q2.ipynb)**
 
 ---
 
@@ -103,7 +103,7 @@ Using these inputs, the motion of the projectile is analyzed.
 * Ballistics
 * Sports physics
 
-👉 🔗 **[Open Solution Notebook](https://github.com/TanveeSP/Astronomical_Calculations/blob/main/Notebooks/A3Q3.ipynb)**
+👉 🔗 **[Open Solution Notebook](https://github.com/TanveeSP/Astronomical_Calculations/blob/main/Notebooks/A1Q3.ipynb)**
 
 ---
 
@@ -128,7 +128,7 @@ Functions analyzed:
 * Radioactive decay
 * Machine learning activation functions
 
-👉 🔗 **[Open Solution Notebook](https://github.com/TanveeSP/Astronomical_Calculations/blob/main/Notebooks/A4Q4.ipynb)**
+👉 🔗 **[Open Solution Notebook](https://github.com/TanveeSP/Astronomical_Calculations/blob/main/Notebooks/A1Q4.ipynb)**
 
 ---
 
@@ -156,7 +156,7 @@ The Gaussian function (Normal Distribution) is one of the most important concept
 * Probability theory
 * Signal processing
 
-👉 🔗 **[Open Solution Notebook](https://github.com/TanveeSP/Astronomical_Calculations/blob/main/Notebooks/A5Q5.ipynb)**
+👉 🔗 **[Open Solution Notebook](https://github.com/TanveeSP/Astronomical_Calculations/blob/main/Notebooks/A1Q5.ipynb)**
 
 ---
 
@@ -184,7 +184,7 @@ This function is important in understanding:
 * Signal processing
 * Physics (wave mechanics)
 
-👉 🔗 **[Open Solution Notebook](https://github.com/TanveeSP/Astronomical_Calculations/blob/main/Notebooks/A6Q6.ipynb)**
+👉 🔗 **[Open Solution Notebook](https://github.com/TanveeSP/Astronomical_Calculations/blob/main/Notebooks/A1Q6.ipynb)**
 
 ---
 
