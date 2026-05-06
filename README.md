@@ -43,7 +43,7 @@ This transformation is mathematically important because spherical coordinates si
 * Step-by-step computation
 * Example-based validation
 
-👉 🔗 **[Open Solution Notebook](https://github.com/TanveeSP/Astronomical-Calculations-.git/blob/main/notebooks/A1Q1.ipynb)**
+👉 🔗 **[Open Solution Notebook](https://github.com/TanveeSP/Astronomical_Calculations.git/blob/main/Notebooks/A1Q1.ipynb)**
 
 ---
 
@@ -70,7 +70,7 @@ Spherical coordinates are widely used in astronomy because they describe:
 * Conversion logic
 * Practical examples
 
-👉 🔗 **[Open Solution Notebook](https://github.com/TanveeSP/Astronomical-Calculations-.git/blob/main/notebooks/A2Q2.ipynb)**
+👉 🔗 **[Open Solution Notebook](https://github.com/TanveeSP/Astronomical_Calculations.git/blob/main/Notebooks/A2Q2.ipynb)**
 
 ---
 
@@ -103,7 +103,7 @@ Using these inputs, the motion of the projectile is analyzed.
 * Ballistics
 * Sports physics
 
-👉 🔗 **[Open Solution Notebook](https://github.com/TanveeSP/Astronomical-Calculations-.git/blob/main/notebooks/A3Q3.ipynb)**
+👉 🔗 **[Open Solution Notebook](https://github.com/TanveeSP/Astronomical_Calculations.git/blob/main/Notebooks/A3Q3.ipynb)**
 
 ---
 
@@ -128,7 +128,7 @@ Functions analyzed:
 * Radioactive decay
 * Machine learning activation functions
 
-👉 🔗 **[Open Solution Notebook](https://github.com/TanveeSP/Astronomical-Calculations-/blob/main/notebooks/A4Q4.ipynb)**
+👉 🔗 **[Open Solution Notebook](https://github.com/TanveeSP/Astronomical_Calculations/blob/main/Notebooks/A4Q4.ipynb)**
 
 ---
 
@@ -156,7 +156,7 @@ The Gaussian function (Normal Distribution) is one of the most important concept
 * Probability theory
 * Signal processing
 
-👉 🔗 **[Open Solution Notebook](https://github.com/TanveeSP/Astronomical-Calculations-/blob/main/notebooks/A5Q5.ipynb)**
+👉 🔗 **[Open Solution Notebook](https://github.com/TanveeSP/Astronomical_Calculations/blob/main/Notebooks/A5Q5.ipynb)**
 
 ---
 
@@ -184,7 +184,7 @@ This function is important in understanding:
 * Signal processing
 * Physics (wave mechanics)
 
-👉 🔗 **[Open Solution Notebook](https://github.com/TanveeSP/Astronomical-Calculations-/blob/main/notebooks/A6Q6.ipynb)**
+👉 🔗 **[Open Solution Notebook](https://github.com/TanveeSP/Astronomical_Calculations/blob/main/Notebooks/A6Q6.ipynb)**
 
 ---
 
@@ -209,8 +209,8 @@ This function is important in understanding:
 ### 1️⃣ Clone Repository
 
 ```bash id="clone-block"
-git clone https://github.com/TanveeSP/Astronomical-Calculations-.git
-cd Astronomical-Calculations-
+git clone https://github.com/TanveeSP/Astronomical_Calculations.git
+cd Astronomical_Calculations
 ```
 
 ### 2️⃣ Launch Jupyter Notebook
@@ -221,7 +221,7 @@ jupyter notebook
 
 ### 3️⃣ Run Notebooks
 
-Open the `notebooks/` folder and execute any `.ipynb` file.
+Open the `Notebooks/` folder and execute any `.ipynb` file.
 
 ---
 
@@ -246,7 +246,7 @@ Open the `notebooks/` folder and execute any `.ipynb` file.
 ## 👨‍💻 Author
 
 **Tanvee Sushama Paresh**
-
+GitHub: https://github.com/TanveeSP
 ---
 
 <p align="center">
