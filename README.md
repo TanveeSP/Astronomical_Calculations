@@ -236,16 +236,16 @@ Open the `Notebooks/` folder and execute any `.ipynb` file.
 
 ## ✨ Key Features
 
-✔️ Detailed explanation of each problem
-✔️ Clean and modular notebook structure
-✔️ Graphical visualization for better understanding
-✔️ Real-world applications included
-✔️ Easy navigation with one-click notebook access
+✔️ Detailed explanation of each problem <br>
+✔️ Clean and modular notebook structure <br>
+✔️ Graphical visualization for better understanding <br>
+✔️ Real-world applications included <br> 
+✔️ Easy navigation with one-click notebook access <br>
 
 
 ## 👨‍💻 Author
 
-**Tanvee Sushama Paresh**
+**Tanvee Sushama Paresh** <br>
 GitHub: https://github.com/TanveeSP
 ---
 
