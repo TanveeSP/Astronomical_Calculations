@@ -43,7 +43,7 @@ This transformation is mathematically important because spherical coordinates si
 * Step-by-step computation
 * Example-based validation
 
-👉 🔗 **[Open Solution Notebook](https://github.com/TanveeSP/Astronomical_Calculations.git/main/Notebooks/A1Q1.ipynb)**
+👉 🔗 **[Open Solution Notebook](https://github.com/TanveeSP/Astronomical_Calculations/blob/main/Notebooks/A1Q1.ipynb)**
 
 ---
 
@@ -70,7 +70,7 @@ Spherical coordinates are widely used in astronomy because they describe:
 * Conversion logic
 * Practical examples
 
-👉 🔗 **[Open Solution Notebook](https://github.com/TanveeSP/Astronomical_Calculations.git/blob/main/Notebooks/A2Q2.ipynb)**
+👉 🔗 **[Open Solution Notebook](https://github.com/TanveeSP/Astronomical_Calculations/blob/main/Notebooks/A2Q2.ipynb)**
 
 ---
 
@@ -103,7 +103,7 @@ Using these inputs, the motion of the projectile is analyzed.
 * Ballistics
 * Sports physics
 
-👉 🔗 **[Open Solution Notebook](https://github.com/TanveeSP/Astronomical_Calculations.git/blob/main/Notebooks/A3Q3.ipynb)**
+👉 🔗 **[Open Solution Notebook](https://github.com/TanveeSP/Astronomical_Calculations/blob/main/Notebooks/A3Q3.ipynb)**
 
 ---
 
