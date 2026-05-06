@@ -43,7 +43,7 @@ This transformation is mathematically important because spherical coordinates si
 * Step-by-step computation
 * Example-based validation
 
-👉 🔗 **[Open Solution Notebook](https://github.com/TanveeSP/Astronomical_Calculations.git/blob/main/Notebooks/A1Q1.ipynb)**
+👉 🔗 **[Open Solution Notebook](https://github.com/TanveeSP/Astronomical_Calculations.git/main/Notebooks/A1Q1.ipynb)**
 
 ---
 
@@ -192,7 +192,7 @@ This function is important in understanding:
 
 ```id="structure-block"
 📦 repo-name
- ┣ 📂 notebooks
+ ┣ 📂 Notebooks
  ┃ ┣ 📜 A1Q1.ipynb
  ┃ ┣ 📜 A2Q2.ipynb
  ┃ ┣ 📜 A3Q3.ipynb
