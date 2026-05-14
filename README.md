@@ -200,6 +200,7 @@ This function is important in understanding:
  ┃ ┣ 📜 A5Q5.ipynb
  ┃ ┗ 📜 A6Q6.ipynb
  ┗ 📜 README.md
+ ┗ 📜 requirement.txt
 ```
 
 ---
@@ -217,6 +218,7 @@ cd Astronomical_Calculations
 
 ```bash id="jupyter-block"
 jupyter notebook
+pip install -r requirements.txt
 ```
 
 ### 3️⃣ Run Notebooks
